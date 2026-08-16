@@ -72,7 +72,6 @@ def select_file(directory):
 
 
 def process_sql(selected):
-#    selected = select_file("../csv/")
 
 # Set vat
     vat = 1.25
