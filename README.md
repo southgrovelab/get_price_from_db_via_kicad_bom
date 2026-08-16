@@ -9,13 +9,8 @@ This script uses the article number from Mouser.
 
 **Example on a csv-file before**  
 Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Mouser Part. No.
-BT1,1,Battery,,,,Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,306-B2BXHALFSNP
-"C1,C2",2,10uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,
 "C3,C20,C21,C22,C23,C24,C25,C26,C27,C29",11,100n,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,77-VJ0603Y104JXQPBC 
-
 
 **Example on a csv-file after**  
 Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Mouser Part. No.,Box,Price,Tot price ,Tot price incl VAT
-BT1,1.00,Battery,,,,Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,306-B2BXHALFSNP,***JST,1.19,1.19,1.49***
-"C1,C2",2.00,10uF,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,***No Data,0.00,0.00,0.00*** 
 "C3,C20,C21,C22,C23,C24,C25,C26,C27,C29",11.00,100n,,,,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,77-VJ0603Y104JXQPBC,***3,1.54,16.94,21.18***
