@@ -1,4 +1,7 @@
 #********************************************************************
+# I'm not a programmer. 
+# I do this because it's fun. 
+# Maybe not written in a completely correct way, but I do my best and having fun...
 #
 # Read a BOM-csv from KiCad and get the price of the component, 
 # physical location of the component, 
