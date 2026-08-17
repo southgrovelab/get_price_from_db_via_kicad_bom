@@ -88,7 +88,7 @@ def process_sql(selected):
     tot_price_incl_vat = []
     data_list = []
 
-# Text before after the filename when the file is edited
+# Text that is added before the original filename when the edited file is saved
     edited = "updated_file_" 
 
 # Set display precision globally for the session
